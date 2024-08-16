@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TOPDOWNFIGHTINGGAME2_TOPDOWNFIGHTINGGAME2Tests : NSObject
+@end
+@implementation PodsDummy_Pods_TOPDOWNFIGHTINGGAME2_TOPDOWNFIGHTINGGAME2Tests
+@end
