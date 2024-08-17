@@ -1,6 +1,0 @@
-module Pods_TOPDOWNFIGHTINGGAME2 {
-  umbrella header "Pods-TOPDOWNFIGHTINGGAME2-umbrella.h"
-
-  export *
-  module * { export * }
-}
